@@ -43,7 +43,7 @@ export default function Detail({
                 />
                 <figcaption>
                   <p className="mt-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
-                  <span className="d-block text-center" onClick={closeModalHandler}>
+                  <span className="d-block text-center mb-3" onClick={closeModalHandler}>
                     <i className="fa-solid fa-close fa-2x align-middle me-2"></i>
                     Close Window
                     </span>
