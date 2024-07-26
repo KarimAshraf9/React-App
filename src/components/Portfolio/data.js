@@ -1,27 +1,27 @@
 const data = [
   {
     title: "LOG CABIN",
-    image: "./src/assets/cabin.png",
+    image: "./assets/cabin.png",
   },
   {
     title: "TASTY CAKE",
-    image: "./src/assets/cake.png",
+    image: "./assets/cake.png",
   },
   {
     title: "CIRCUS TENT",
-    image: "./src/assets/circus.png",
+    image: "./assets/circus.png",
   },
   {
     title: "CONTROLER",
-    image: "./src/assets/game.png",
+    image: "./assets/game.png",
   },
   {
     title: "LOCKED SAFE",
-    image: "./src/assets/safe.png",
+    image: "./assets/safe.png",
   },
   {
     title: "SUBMARINE",
-    image: "./src/assets/submarine.png",
+    image: "./assets/submarine.png",
   },
 ];
 
