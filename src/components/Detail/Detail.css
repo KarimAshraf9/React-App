@@ -1,0 +1,17 @@
+#detail {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.closeIcon {
+  top: 17px;
+  right: 22px;
+}
+
+.closeIcon:hover {
+  cursor: pointer;
+}
+
+
+#detail span{
+  cursor: pointer;
+}
